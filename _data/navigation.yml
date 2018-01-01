@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: 笔记
+- title: NOTE 笔记
   url: /teaching/
   excerpt: "杂的没什么用的学习记录"
   image: learning_teaching.gif
@@ -10,7 +10,7 @@
   excerpt: "在此展示学生作品集，好的丶可改进的及有趣的"
   image: Portfolio.svg
 
-- title: i18nl10n
+- title: i18nl10n 国际化及本地化
   url: /i18nl10n/
   excerpt: "含＂一带一路＂倡议"
   image: Tower_of_Babel.jpg
