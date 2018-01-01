@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: 教学
+- title: 学习笔记
   url: /teaching/
-  excerpt: "含体验式教学及混合式教学"
+  excerpt: "一些杂的乱的没什么用的自我学习记录"
   image: learning_teaching.gif
 
-- title: 学生作品集
+- title: 作品集
   url: /portfolio/
   excerpt: "在此展示学生作品集，好的丶可改进的及有趣的"
   image: Portfolio.svg
