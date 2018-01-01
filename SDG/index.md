@@ -6,7 +6,7 @@ modified:
 excerpt: 老师曾提到过这本书，而我恰巧看过，因此在此处留下自己的“读后感”
 tags: []
 image: 
-  feature: 300x200.gif
+  feature: 234.gif
   teaser:
 ---
 
