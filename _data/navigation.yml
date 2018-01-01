@@ -1,8 +1,8 @@
 # Site navigation links
 
-- title: 学习笔记
+- title: 笔记
   url: /teaching/
-  excerpt: "一些杂的没什么用的自我学习记录"
+  excerpt: "杂的没什么用的学习记录"
   image: learning_teaching.gif
 
 - title: 作品集
