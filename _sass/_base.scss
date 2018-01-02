@@ -61,9 +61,9 @@ ins {
 /* Links */
 
 a {
-	color: $link-color;
+	color: $white;
 	&:hover {
-		color: darken($link-color, 20);
+		color: darken($white, 20);
 	}
 	&:focus {
 		@extend %tab-focus;
@@ -102,12 +102,12 @@ pre {
 p code,
 li code {
 	@include font-size(16,no);
-	color: $text-color;
+	color:  $white;
 	white-space: nowrap;
 	margin: 0 2px;
 	padding: 0 5px;
-	border: 1px solid $border-color;
-	background-color: lighten($primary-color, 95);
+	border: 1px solid #f7f7f7;
+	background-color: lighten(#ff4040, 95);
 	border-radius: $border-radius;
 }
 
@@ -263,7 +263,7 @@ hr {
 		left: 0;
 		width: 2 * $column;
 		height: 1px;
-		background: $border-color;
+		background: $white;
 	}
 }
 
@@ -272,8 +272,8 @@ hr {
    ========================================================================== */
 
 fieldset {
-	background: lighten($border-color, 10);
-	border: 1px solid $border-color;
+	background: lighten($white, 10);
+	border: 1px solid $white;
 	margin-bottom: 0px + $doc-line-height;
 	margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
 	padding: $gutter;
@@ -318,10 +318,10 @@ select[multiple=multiple] {
 	padding: ((0rem + ($doc-line-height / $doc-font-size)) / 3) ((0rem + ($doc-line-height / $doc-font-size)) / 3);
 	width: 100%;
 	&:hover {
-		border-color: $form-border-color-hover;
+		border-color: ff4040;
 	}
 	&:focus {
-		border-color: $form-border-color-focus;
+		border-color: ff4040;
 		box-shadow: $form-box-shadow-focus;
 		outline: none;
 	}
