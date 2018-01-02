@@ -9,6 +9,11 @@
 body {
 	font-family: $base-font;
 	color: #d0d0d0;
+    background-image: url(https://Kannroy.github.io/images/BACK2.jpg);			
+    background-position: center center;		
+    background-repeat: no-repeat;		
+    background-attachment: fixed;		
+    background-size:cover;
     background-color: #2f4f4f;
 	@include font-size(16);
 }
