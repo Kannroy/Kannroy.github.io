@@ -9,8 +9,7 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
-    background-image:
-      url('https://i.loli.net/2018/01/02/5a4b6fbfe2f4d.jpg');
+    background-image:linear-gradient(rgba(240,248,255,0.9), rgba(240,248,255,0.7)),url("https://Kannroy.github.io/images/BLACK-butterfly.jpeg");
 	@include font-size(16);
 }
 
