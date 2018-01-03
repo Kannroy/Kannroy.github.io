@@ -38,7 +38,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: #228b22;
+    background: $lemon;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -145,7 +145,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-      border: 3px solid #fffafa;
+      border: 3px solid $lemon;
     }
     .title {
       display: block;
@@ -168,7 +168,7 @@
       }
     }
     .title:hover,.excerpt:hover,.teaser:hover{
-        color: #fffafa;
+        color: $lemon;
     }
   }
   .sub-menu-item > li a {
