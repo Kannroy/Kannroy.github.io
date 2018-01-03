@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: NOTE 笔记
-  url: /teaching/
+  url: /SDG/
   excerpt: "杂的没什么用的学习记录"
   image: 控分大佬1.jpg
 
@@ -11,7 +11,7 @@
   image: 可用3.jpg
 
 - title: 设计心理学
-  url: /SDG/
+  url: /DP/
   excerpt: "我用心理学成就你的梦想"
   image: 可用2（小埋）.gif
 
