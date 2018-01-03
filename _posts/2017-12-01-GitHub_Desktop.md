@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "可裝GitHub Desktop"
-date:   2017-12-01 22:07:50 +0800
+date:   2018-1-03 12:33:47 +0800
 categories: notes_tech Jekyll
 image:
   teaser: github-desktop-icon.svg
