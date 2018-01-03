@@ -90,8 +90,7 @@
     @include media($large) {
       margin-right: 20%;
     }
-    black-color: $white;
-    color: #ff0a3b;
+    color: $white;
     @include font-size(14);
     @include media($small) {
       @include font-size(16);
@@ -129,7 +128,7 @@
   .menu-item {
     a {
       display: block;
-      color: $black;
+      color: $white;
       text-decoration: none;
     }
     .teaser {
