@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "可裝GitHub Desktop"
+title:  "攻略之Fork同步"
 date:   2018-1-03 12:33:47 +0800
 categories: notes_tech Jekyll
 image:
