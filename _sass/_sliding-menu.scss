@@ -128,7 +128,7 @@
   .menu-item {
     a {
       display: block;
-      color: #ce2029;
+      color: $white;
       text-decoration: none;
     }
     .teaser {
@@ -173,7 +173,7 @@
   }
   .sub-menu-item > li a {
     display: block;
-    color: $white;
+    color: #fffafa;
     font-style: italic;
   }
   .menu-item .home a {
