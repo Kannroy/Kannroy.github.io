@@ -29,7 +29,7 @@
   display: block;
   width: $button-size * 2;
   height: $button-size * 2;
-  background: $primary-color;
+  background: #fffdd0;
   background-repeat:no-repeat;
   outline: 0;
   padding: 0;
@@ -38,7 +38,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $lemon;
+    background: #228b22;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -145,7 +145,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-      border: 3px solid $lemon;
+      border: 3px solid #fffafa;
     }
     .title {
       display: block;
@@ -168,7 +168,7 @@
       }
     }
     .title:hover,.excerpt:hover,.teaser:hover{
-        color: $lemon;
+        color: #fffafa;
     }
   }
   .sub-menu-item > li a {
