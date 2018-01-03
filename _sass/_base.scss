@@ -108,7 +108,7 @@ li code {
 	margin: 0 2px;
 	padding: 0 5px;
 	border: 1px solid #f7f7f7;
-	background-color: lighten(#ff4040, 95);
+	background-color: lighten(#3d9ae8, 95);
 	border-radius: $border-radius;
 }
 
@@ -307,7 +307,7 @@ select,
 select[multiple=multiple] {
 	@include box-sizing(border-box);
 	@include transition(border-color);
-	background-color: white;
+	background-color: $white;
 	border-radius: $form-border-radius;
 	border: 1px solid $form-border-color;
 	box-shadow: $form-box-shadow;
