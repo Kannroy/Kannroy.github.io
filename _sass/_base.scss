@@ -14,7 +14,7 @@ body {
     background-repeat: no-repeat;		
     background-attachment: fixed;		
     background-size:cover;
-    background-color: #2f4f4f;
+    background-color: #212121;
 	@include font-size(16);
 }
 
@@ -319,10 +319,10 @@ select[multiple=multiple] {
 	padding: ((0rem + ($doc-line-height / $doc-font-size)) / 3) ((0rem + ($doc-line-height / $doc-font-size)) / 3);
 	width: 100%;
 	&:hover {
-		border-color: ff4040;
+		border-color: #3d9ae8;
 	}
 	&:focus {
-		border-color: ff4040;
+		border-color: #3d9ae8;
 		box-shadow: $form-box-shadow-focus;
 		outline: none;
 	}
