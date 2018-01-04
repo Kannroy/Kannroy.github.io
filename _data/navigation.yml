@@ -1,9 +1,9 @@
 # Site navigation links
 
 - title: Note 笔记
-   url: /rwd/
-   excerpt: "在此留下本人的学习笔记"
-   image: 控分大佬.jpg
+  url: /rwd/
+  excerpt: "在此留下本人的学习笔记"
+  image: 控分大佬.jpg
  
  - title: 可视化作品
    url: /可视化/
