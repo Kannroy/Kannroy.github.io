@@ -48,5 +48,5 @@ locales:
     written_by: "撰写者"
     updated: "更新日期：2018/1/1"
     share: "分享"
-  zh_TW:
+  zh_CN:
     <<: *DEFAULT_DE     # use German translation for de_DE
