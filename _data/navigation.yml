@@ -1,21 +1,26 @@
 # Site navigation links
 
 - title: NOTE 笔记
-  url: /rwd/
+  url: /_posts/rwd/
   excerpt: "学习笔记"
   image: 控分大佬.jpg
 
 - title: 网页作品
-  url: /网页作品/
+  url: /portfolio/
   excerpt: "期中网页"
   image: 摆头.jpg
 
 - title: 可视化作品
-  url: /可视化/
+  url: /infovis/
   excerpt: "我用可视化成就你的梦想"
   image: 小埋.gif
+
+- title: 可视化笔记
+  url: /_posts/infovis/
+  excerpt: "我用可视化成就你的梦想"
+  image: 萌物.gif
 
 - title: 联络我
   url: /联络我/
   excerpt: "有缘再会"
-  image: 萌物.gif
+  image: bio-photo.jpg
