@@ -269,7 +269,7 @@
 	@include fill-parent;
 	// expand image to cover full width of header
 	img {
-		width: 100%;
+		width: auto;
 	    @include:media($medium) {
             width: 50%
         }
