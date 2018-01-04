@@ -31,9 +31,7 @@ pre.highlight {
 		padding: 1em;
 	}
 	&:hover {
-		border: 3px solid $form-border-color-hover;
-        background-color: $black
-        color: $white
+		border: 1px solid $form-border-color-hover;
 	}
 }
 
