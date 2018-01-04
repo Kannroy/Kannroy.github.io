@@ -29,8 +29,7 @@
   display: block;
   width: $button-size * 2;
   height: $button-size * 2;
-  background: #318bff;
-  background-repeat:no-repeat;
+  background: $primary-color;
   outline: 0;
   padding: 0;
   border: 2.5px solid transparent;
@@ -38,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: #acacac;
+    background: $lemon;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -130,29 +129,13 @@
       display: block;
       color: $white;
       text-decoration: none;
-      font-family: Arial;
-	  font-weight: bolder;
-	  border:2px solid rgba(255,255,255,0.2);
-	  padding-left: 20px;
-	  margin: 0 auto;
-   	  position: relative;
-	  box-sizing:border-box;
-	  -moz-box-sizing:border-box;
-	  -o-box-sizing:border-box;
-	  -webkit-box-sizing:border-box;
-	  -ms-box-sizing:border-box;
-        
-      transition:0.4s ease;
-	  -webkit-transition:0.4s ease;
-	  -moz-transition:0.4s ease;
-	  -o-transition:0.4s ease;
     }
-   .teaser {
+    .teaser {
       position: absolute;
       left: 0;
       margin-bottom: 0;
       width: 50px;
-      border: 2px solid $white;
+      border: 1px solid $white;
       margin-bottom: ($gutter / 2);
       opacity: 0.6;
       @include media($small) {
@@ -161,6 +144,7 @@
     }
     a:hover .teaser {
       opacity: 1;
+      border: 3px solid $lemon;
     }
     .title {
       display: block;
@@ -182,10 +166,13 @@
         @include font-size(16,no);
       }
     }
+    .title:hover,.excerpt:hover,.teaser:hover{
+        color: $lemon;
+    }
   }
   .sub-menu-item > li a {
     display: block;
-    color: #fffafa;
+    color: $white;
     font-style: italic;
   }
   .menu-item .home a {
