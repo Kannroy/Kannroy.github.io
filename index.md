@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "阿琴波尔迪"
 ---
 
 <div class="tiles">
