@@ -164,6 +164,8 @@
         @include font-size(16,no);
       }
     }
+    .title:hover{
+        color: #8fd500
   }
   .sub-menu-item > li a {
     display: block;
