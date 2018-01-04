@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: NOTE 笔记
-  url: /_posts/rwd/
+- title: Web 笔记
+  url: /_posts/
   excerpt: "学习笔记"
   image: 控分大佬.jpg
 
@@ -15,12 +15,7 @@
   excerpt: "我用可视化成就你的梦想"
   image: 小埋.gif
 
-- title: 可视化笔记
-  url: /_posts/infovis/
-  excerpt: "我用可视化成就你的梦想"
-  image: 萌物.gif
-
 - title: 联络我
-  url: /联络我/
+  url: /contact/
   excerpt: "有缘再会"
-  image: bio-photo.jpg
+  image: 萌物.gif
