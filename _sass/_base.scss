@@ -8,7 +8,13 @@
 
 body {
 	font-family: $base-font;
-	color: $text-color;
+	color: #d0d0d0;
+  background-image: url("https://Kannroy.github.io/images/sakura.jpg");			
+  background-position: center center;		
+  background-repeat: no-repeat;		
+  background-attachment: fixed;		
+  background-size:cover;
+  background-color: #f8f8ff;
 	@include font-size(16);
 }
 
@@ -133,7 +139,7 @@ figure {
       /* Image hover animation */
       @include transition(box-shadow 0.3s);
       &:hover {
-        box-shadow: 0 0 10px rgba($black, .20);
+        box-shadow: 0 0 10px rgba(#008fd5, .20);
       }
     }
   }
