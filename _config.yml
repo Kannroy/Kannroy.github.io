@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name:fuhao
-  email:841979371@qq.com
-  wechat:ua9278
+  name: fuhao
+  email: 841979371@qq.com
+  wechat: ua9278
   google:
     ad-client:
     ad-slot:
-  bio:"符浩 网络与新媒体 廖汉腾老师的学生 中山大学南方学院 "
+  bio:"符浩 网络与新媒体 廖汉腾老师的学生 中山大学南方学院"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
