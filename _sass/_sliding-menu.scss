@@ -147,110 +147,20 @@
 	  -moz-transition:0.4s ease;
 	  -o-transition:0.4s ease;
     }
-    .menu-item:hover{
-              border: 2px solid rgba(255,255,255,1);
-	          background: url(http://7q5cdt.com1.z0.glb.clouddn.com/ghost-button-css3-allow.png) no-repeat 140px center;
+   .teaser {
+      position: absolute;
+      left: 0;
+      margin-bottom: 0;
+      width: 50px;
+      border: 2px solid $white;
+      margin-bottom: ($gutter / 2);
+      opacity: 0.6;
+      @include media($small) {
+        width: 150px;
+      }
     }
-    /* 四条线 */
-    .menu-item .line{
-	     display: block;
-	        position: absolute;
-	        background: none;
-	
-	        transition:0.4s ease;
-	        -webkit-transition:0.4s ease;
-	        -moz-transition:0.4s ease;
-	        -o-transition:0.4s ease;
-    }
-    .menu-item:hover .line{
-	        background: #fff;
-    }
-    /* 初始位置 */
-    .menu-item .line-top{
-        	height: 2px;
-	        width: 0px;
-	        left:-110%;
-	        top:-2px;
-	
-    }
-    /* 最终位置, 只写有变化的属性 */
-    .menu-item:hover .line-top{
-	  width: 180px;
-	  left: -2px;
-    }
-
-    /* 初始位置 */
-    .menu-item .line-right{
-      height: 0px;
-      width: 2px;
-	  top:-110%;
-	  right:-2px;
-	
-    }
-    /* 最终位置, 只写有变化的属性 */
-    .menu-item:hover .line-right{
-	  height: 50px;
-	  top: -2px;
-    }
-
-    /* 初始位置 */
-    .menu-item .line-bottom{
-	  height: 2px;
-	  width: 0px;
-	  right:-110%;
-	  bottom:-2px;
-	
-    }
-    /* 最终位置, 只写有变化的属性 */
-    .menu-item .line-bottom{
-	  width: 180px;
-	  right: -2px;
-    }
-
-    /* 初始位置 */
-    .menu-item .line-left{
-	  height: 0px;
-	  width: 2px;
-	  bottom: -110%;
-	  left: -2px;
-    }
-    /* 最终位置, 只写有变化的属性 */
-    .menu-item .line-left{
-	  height: 50px;
-	  bottom: -2px;
-    }
-    /* tip */
-    .tip{
-	  position: absolute;
-	  padding:0 14px;
-	  height: 35px;
-	  line-height: 35px;
-	  background: #2dcb70;
-	  color: #fff;
-	  font-size: 18px;
-	  margin: 0 auto;
-	  border-radius: 3px;
-	  -webkit-border-radius: 3px;
-	  -moz-border-radius: 3px;
-	  -o-border-radius: 3px;
-	  -ms-border-radius: 3px;
-	  top:100px;
-	  opacity: 0;
-    }
-    .tip em{
-	  font-style: normal;
-    }
-    .tip span{
-	  display: block;
-	  width: 0;
-	  height: 0;
-	  overflow: hidden;
-	  border: 7px solid transparent;
-	  border-top-color: #2dcb70;
-	  position: absolute;
-	  top: 35px;
-	  left: 50%;
-	  margin-left: -3px;
+    a:hover .teaser {
+      opacity: 1;
     }
     .title {
       display: block;
