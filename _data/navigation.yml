@@ -1,26 +1,6 @@
 # Site navigation links
 
-- title: NOTE 笔记
-  url: /SDG/
-  excerpt: "杂的没什么用的学习记录"
-  image: 控分大佬1.jpg
-
-- title: 期中网页作品
-  url: /第一次网页/
-  excerpt: "犯罪心理学"
-  image: 可用3.jpg
-
-- title: 设计心理学
-  url: /DP/
-  excerpt: "我用心理学成就你的梦想"
-  image: 可用2（小埋）.gif
-
-- title: 可视化作品
-  url: /可视化/
-  excerpt: "Tableau"
-  image: 可用3（圣人）.gif
-
-- title: 联络我
-  url: /contact/
-  excerpt: "联络我"
-  image: 可用.gif
+- title:
+  url:
+  excerpt:
+  image:

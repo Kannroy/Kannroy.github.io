@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "XD"
+title: "Latest Posts"
 ---
 
 <div class="tiles">
