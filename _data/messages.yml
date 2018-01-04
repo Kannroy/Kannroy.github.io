@@ -45,9 +45,18 @@ locales:
     <<: *DEFAULT_ZH    # load English values as default
     overview: "总览"
     toc: "目录"
+<<<<<<< HEAD
     written_by: "攒写者"
     updated: "更新日期：2018/1/1"
     share: "分享"
   zh_TW:
     <<: *DEFAULT_ZH     # use German translation for de_DE
 
+=======
+    written_by: "撰写者"
+    updated: "更新日期：2018/1/1"
+    share: "分享"
+  zh_TW:
+    <<: *DEFAULT_DE     # use German translation for de_DE
+ 
+>>>>>>> 81fcf9630ec41caa8a376d42a2a10f942af38ee0
