@@ -164,7 +164,7 @@
         @include font-size(16,no);
       }
     }
-    .title:hover{
+    .title:hover,.excerpt:hover{
         color: #8fd500
     }
   }
