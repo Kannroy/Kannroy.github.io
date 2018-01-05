@@ -15,8 +15,6 @@ image:
 ![pEiDhQ.png](https://s1.ax1x.com/2018/01/06/pEiDhQ.png)
 [音乐APP的热点情况](https://public.tableau.com/views/_18186/1_2?:embed=y&:display_count=yes&publish=yes)
 - 使用高德地图API获取了“酷狗音乐”、“酷我音乐”、“网易云音乐”、“百度音乐”以及“虾米音乐”的数据
-- 使用条形图来对比四种音乐软件在各省以及总体的使用人数
-- 使用地图来分析研究四种音乐软件在全国各地的分布情况
 
 ![pEiUnP.jpg](https://s1.ax1x.com/2018/01/06/pEiUnP.jpg)
 [期中可视化作品](https://kannroy.github.io/infovis/O组可视化)
