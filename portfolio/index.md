@@ -1,22 +1,20 @@
 ---
 layout: archive
-title: "可视化 作品"
+title: "Web 作品"
 date: 2018-1-03T23:11:36-04:00
 modified:
-excerpt: "我用可视化成就你的梦想"
+excerpt: "看不见网页做好 让我怎么睡得着"
 tags: []
 image: 
-  feature: 小埋.gif
+  feature: 摆头.jpg
   teaser:
 ---
 
 此处留下可视化作品集
 
-![sa](https://i.loli.net/2018/01/05/5a4f22ced236e.png)
-[音乐APP的热点情况](https://public.tableau.com/views/_18186/1_2?:embed=y&:display_count=yes&publish=yes)
-- 使用高德地图API获取了“酷狗音乐”、“酷我音乐”、“网易云音乐”、“百度音乐”以及“虾米音乐”的数据
-- 使用条形图来对比四种音乐软件在各省以及总体的使用人数
-- 使用地图来分析研究四种音乐软件在全国各地的分布情况
+![sa](https://i.loli.net/2018/01/05/5a4f76d3d60ac.png)
+[期中网页](https://kannroy.github.io/portfolio/期中网页)
+- 犯罪心理学
 
 ![sa](https://i.loli.net/2018/01/05/5a4f23b20f885.png)
 [期中可视化作品](https://kannroy.github.io/infovis/O组可视化)
