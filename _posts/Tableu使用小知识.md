@@ -7,6 +7,9 @@ image:
   feature: note.png
   teaser: note.png
 ---
+这里记载了一些我在学习Tableau时获得的小知识。
+
+{% include toc.html %}
 
 # Tableau使用小知识
 ### 自动创建视图
