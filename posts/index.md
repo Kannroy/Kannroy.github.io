@@ -10,10 +10,14 @@ image:
   teaser:
 ---
 
-在此留下我在学习途中中收集到的信息
+![pAvvb4.jpg](https://s1.ax1x.com/2018/01/06/pAvvb4.jpg)
 
-<div class="tiles">
-{% for post in site.categories.rwd %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles 把所有categories 有 rwd的列出来-->
+此处留下可视化作品集
+
+![pAvLvT.jpg](https://s1.ax1x.com/2018/01/06/pAvLvT.jpg)
+[Web](https://kannroy.github.io/posts/rwd)
+- 课程“网页制作”学习笔记在此
+
+![pAvvb4.jpg](https://s1.ax1x.com/2018/01/06/pAvvb4.jpg)
+[可视化](https://kannroy.github.io/posts/infovis)
+- 课程“信息可视化”学习笔记在此
