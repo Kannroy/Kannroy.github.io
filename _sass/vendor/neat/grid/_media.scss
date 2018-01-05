@@ -36,3 +36,11 @@
     }
   }
 }
+
+
+    @media #{$mediaQuery} {
+      @content;
+      $grid-columns: $default-grid-columns !global;
+    }
+  }
+}
