@@ -15,7 +15,7 @@
   excerpt: "我用可视化成就你的梦想"
   image: 小埋.gif
 
-- title: 联络我
-  url: /contact/
-  excerpt: "有缘再会"
+- title: 可视化 笔记
+  url: /posts/infovis/
+  excerpt: "infovis"
   image: 萌物.gif
