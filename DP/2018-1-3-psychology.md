@@ -4,8 +4,8 @@ title:  "设计心理学"
 date:   2018-1-03 22:28:40 +0800
 categories: rwd
 image:
-  teaser: psychology.jpg
-  feature: psychology.jpg
+  teaser: psychology.png
+  feature: psychology.png
 ---
 
 前些日子老师提到过这本书，而我恰巧看过，所以在此处写自己的感触。

@@ -29,7 +29,7 @@
   display: block;
   width: $button-size * 2;
   height: $button-size * 2;
-  background: #8a7f80;
+  background: $primary-color;
   outline: 0;
   padding: 0;
   border: 2.5px solid transparent;
@@ -37,18 +37,20 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: #008fd5;
+    background: $lemon;
   }
   transition: $sliding-menu-animation;
   &.slide {
     background: $danger-color;
     transform: translateX(0); /* don't slide close button on small screens only */
+    /* disable reset slide position
     @include media($medium) {
-      transform: translateX(em(-600)); /* reset slide position */
+      transform: translateX(em(-600)); 
     }
     @include media($large) {
-      transform: translateX(em(-900)); /* reset slide position */
+      transform: translateX(em(-900)); 
     }
+    */
   }
 }
 
@@ -142,7 +144,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-      border: 3px solid #8fd500
+      border: 3px solid $lemon;
     }
     .title {
       display: block;
@@ -165,7 +167,7 @@
       }
     }
     .title:hover,.excerpt:hover,.teaser:hover{
-        color: #8fd500
+        color: $lemon;
     }
   }
   .sub-menu-item > li a {
