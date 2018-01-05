@@ -10,7 +10,7 @@
 
   @else {
     $loopTo: length($query);
-    $mediaQuery: 'screen and ';
+    $mediaQuery: 'print, screen and ';
     $default-grid-columns: $grid-columns;
     $grid-columns: $total-columns !global;
 
