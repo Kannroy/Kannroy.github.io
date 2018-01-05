@@ -10,10 +10,10 @@ image:
   teaser:
 ---
 
-![pAvLvT.jpg](‘https://s1.ax1x.com/2018/01/06/pAvLvT.jpg’ style='zoom:50%')
+![pEi1te.jpg](https://s1.ax1x.com/2018/01/06/pEi1te.jpg)
 [Web](https://kannroy.github.io/posts/rwd/index)
 - 课程“网页制作”学习笔记在此
 
-![pAvvb4.jpg](https://s1.ax1x.com/2018/01/06/pAvvb4.jpg)
+![pEi3fH.jpg](https://s1.ax1x.com/2018/01/06/pEi3fH.jpg)
 [可视化](https://kannroy.github.io/posts/infovis/index)
 - 课程“信息可视化”学习笔记在此
