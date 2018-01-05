@@ -73,16 +73,12 @@
 			}
 			&:after {
 				width: 0;
-				background: $white;
+				background: $black;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
-			}
-            &:hover {
-                color: #cbecff;
-                background-color: $balck;
-            }    
+			} 
 		}
 	}
 }
