@@ -124,7 +124,6 @@
 	font-weight: 700;
 	a {
 		color: lighten($black,60);
-		background-color: #oooooo
 	}
 }
 
@@ -310,6 +309,7 @@
 
 .page-footer {
 	position: relative;
+	background-color: #000000
 }
 
 /* Author block */
