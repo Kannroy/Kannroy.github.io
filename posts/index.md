@@ -13,7 +13,7 @@ image:
 在此留下我在学习途中中收集到的信息
 
 <div class="tiles">
-{% for post in site.categories %}
+{% for post in site.categories.categories %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 categories 的列出来-->
