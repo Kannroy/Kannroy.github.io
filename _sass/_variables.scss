@@ -27,7 +27,7 @@ $black                        : #ed6471;
 $body-color                  	: #ebebeb;
 
 $text-color                  	: #313130;
-$caption-color                : mix($black, $text-color, 25%);
+$caption-color                : mix($white, $text-color, 25%);
 
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
@@ -82,9 +82,9 @@ $form-font-size              	: $doc-font-size;
 
 $sliding-menu-border-color	 	 : $black;
 $sliding-menu-background 		   : $black;
-$sliding-menu-color 	 		     : $black;
+$sliding-menu-color 	 		     : $white;
 $sliding-menu-background-hover : $black;
-$sliding-menu-color-hover	 	   : $black;
+$sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 30px;
 $transition						         : 0.3s; // increase this to see the transformations in slow-motion
@@ -100,7 +100,7 @@ $badge-danger-color            : $danger-color;
 $badge-info-color              : $info-color;
 $badge-warning-color           : $warning-color;
 $badge-success-color           : $success-color;
-$badge-font-color              : $black;
+$badge-font-color              : $white;
 
 
 /*
