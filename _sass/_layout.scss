@@ -81,7 +81,7 @@
 			}
             &:hover {
                 color: #000000;
-                background-color: $white;
+                background-color: #dc143c;
             }
 		}
 	}
@@ -367,7 +367,7 @@
 }
  
 @media print {
-    #masthead,nav, button, html [type=button], .menu-screen {
+    #masthead, nav, button, html [type=button], .menu-screen {
         display: none;
     }
     html, body {
