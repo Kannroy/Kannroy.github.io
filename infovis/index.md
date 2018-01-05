@@ -6,7 +6,7 @@ modified:
 excerpt: "我用可视化成就你的梦想"
 tags: []
 image: 
-  feature: 小埋.gif
+  feature: 圣人惠.gif
   teaser:
 ---
 
