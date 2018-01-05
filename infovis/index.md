@@ -16,4 +16,4 @@ image:
 [音乐APP的热点情况](https://public.tableau.com/views/_18186/1_2?:embed=y&:display_count=yes&publish=yes)
 
 ![sa](https://i.loli.net/2018/01/05/5a4f19c666b6d.png)
-[期中可视化作品]（https://kannroy.github.io/infovis/O组可视化）
+[期中可视化作品]（https://kannroy.github.io/infovis/O%E7%BB%84%E5%8F%AF%E8%A7%86%E5%8C%96/）
