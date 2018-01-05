@@ -12,8 +12,8 @@ image:
 
 此处留下可视化作品集
 
-![sa](https://i.loli.net/2018/01/05/5a4f22ce796b2.png)
+![sa](https://i.loli.net/2018/01/05/5a4f22ced236e.png)
 [音乐APP的热点情况](https://public.tableau.com/views/_18186/1_2?:embed=y&:display_count=yes&publish=yes)
 
-![sa](https://i.loli.net/2018/01/05/5a4f22ced236e.png)
+![sa](https://i.loli.net/2018/01/05/5a4f23b20f885.png)
 [期中可视化作品](https://kannroy.github.io/infovis/O组可视化)
