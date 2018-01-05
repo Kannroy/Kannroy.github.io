@@ -12,7 +12,7 @@
 	@include font-size(14);
 	font-family: $alt-font;
 	background-color: $primary-color;
-	color: #000000;
+	color: $white;
 	text-decoration: none;
 	border: 0 !important;
 	border-radius: 10 * $border-radius;
@@ -33,14 +33,14 @@
 
 .btn-inverse {
 	@extend .btn;
-	background-color: #000000;
+	background-color: $white;
 	color: $text-color;
 	&:visited,
 	&:active {
 		color: $text-color;
 	}
 	&:hover {
-		color: #000000;
+		color: $white;
 		background-color: $text-color;
 	}
 }
