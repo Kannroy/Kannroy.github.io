@@ -1,10 +1,8 @@
 ---
-layout: archive
-title:  "可视化 笔记"
-date:   2018-1-3 22:07:50 +0800
-modified:
-excerpt: "学习笔记"
-tags: []
+layout: article
+title:  "Tableau使用小知识"
+date:   2018-1-1 19:17:30 +0800
+categories: categories
 image:
   feature: note.gif
   teaser: note.gif
