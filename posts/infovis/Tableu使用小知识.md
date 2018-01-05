@@ -4,8 +4,8 @@ title:  "Tableau使用小知识"
 date:   2018-1-1 19:17:30 +0800
 categories: post
 image:
-  feature: note.gif
-  teaser: note.gif
+  feature: note.png
+  teaser: note.png
 ---
 
 # Tableau使用小知识
