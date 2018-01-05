@@ -1,17 +1,17 @@
 # Site navigation links
 
 - title: Web 笔记
-  url: /_posts/
+  url: /DP/
   excerpt: "学习笔记"
   image: 控分大佬.jpg
 
 - title: 网页作品
-  url: /portfolio/
+  url: /第一网页/
   excerpt: "期中网页"
   image: 摆头.jpg
 
 - title: 可视化作品
-  url: /infovis/
+  url: /可视化/
   excerpt: "我用可视化成就你的梦想"
   image: 小埋.gif
 
