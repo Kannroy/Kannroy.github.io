@@ -270,19 +270,18 @@
 .page-feature {
 	@include fill-parent;
 	// expand image to cover full width of header--
-    // instead,using auto, max-width
+	// instead,using auto, max-width
 	img {
 		width: auto;
-        max-width: 100%;
-        @include media($medium) {
-            width: 50%;
-            max-width: 50%;
-	    }
-        @include: media($large) {
-            width: 33%;
-            max-width: 33%;
-        }
-   }
+		max-width: 100%;
+		@include media($medium) {
+			max-width: 50%;
+		}
+		@include media($large) {
+			max-width: 33%;
+		}
+
+	}
 }
 // make image flush with edges on small screens
 .page-image {
