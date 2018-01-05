@@ -2,7 +2,7 @@
 layout: article
 title:  "Tableau使用小知识"
 date:   2018-1-1 19:17:30 +0800
-categories: post
+categories: rwd
 image:
   feature: note.png
   teaser: note.png
