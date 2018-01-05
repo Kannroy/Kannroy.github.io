@@ -2,7 +2,7 @@
 layout: article
 title:  "设计心理学"
 date:   2018-1-03 22:28:40 +0800
-categories: categories
+categories: post rwd
 image:
   teaser: psychology.jpg
   feature: psychology.jpg
