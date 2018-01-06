@@ -14,4 +14,5 @@ image:
 
 ![pEitXt.jpg](https://s1.ax1x.com/2018/01/06/pEitXt.jpg)
 [期中网页](https://kannroy.github.io/portfolio/期中网页)
+<<<<<<< HEAD
 - 犯罪心理学

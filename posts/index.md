@@ -1,66 +1,19 @@
-<!doctype html>
- <! 根據 https://baike.baidu.com/item/%E7%8A%AF%E7%BD%AA%E5%BF%83%E7%90%86%E5%AD%A6/6443?fr=aladdin >
- <html class="nojs" lang="zhCN">
- 	<head>
- 		<meta charset="utf8">
- 		<title>犯罪心理学</title>
- 		<meta name="description" content="从人的内心根源探讨犯罪">
- 		<meta name="viewport" content="width=devicewidth">
- 		<link rel="stylesheet" href="css/styles.css">
- 	</head>
- 	<body>
- 		<div class="Header">
- 			<a href="/" class="LogoWrapper"><img src="https://baike.baidu.com/item/%E7%8A%AF%E7%BD%AA%E5%BF%83%E7%90%86%E5%AD%A6/6443?fr=aladdin" alt="UNSDG_Logo_2015_CH" /></a>
- 			<p class="Strap">从心理学观点探讨犯罪问题</p>
- 		</div>
- 		<div class="IntroWrapper">
- 			<p class="IntroText">从罪犯的认知方面，深入探讨他们的知觉、推理、新年、决策和态度。
- 				<! 根據 https://www.bilibili.com/video/av7676540/?from=search&seid=9709085371033343645  >
- 				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/xshockwaveflash" src="https://statics.bilibili.com/miniloader.swf" flashvars="aid=6517184&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
- 			</p>
- 			<div class="MoneyShot">
- 				<a href = "https://baike.baidu.com/item/%E7%8A%AF%E7%BD%AA%E5%BF%83%E7%90%86/16916?fr=aladdin">
- 				<img class="MoneyShotImg" width="100%" src="https://i.loli.net/2018/01/05/5a4f754720e48.jpg" alt="电影《七宗罪》" />
- 				<p class="ImageCaption">犯罪心理学电影中的运用</p>
- 				</a>
- 			</div>
- 		</div>
- 		<p>什么是犯罪心理学?</p>
- 		<div class="Ingredients">
- 			<h3 class="SubHeader">目的</h3>
- 			<ol>
- 				<li>减少犯罪</li>
- 				<li>服务于司法机构</li>
- 				<li>为美好社会开拓道路</li>
- 				<li>教育</li>
- 				<li>减少再犯罪</li>
- 				<li>为被害者提供心里层次的帮助</li>
- 				<li>减少犯罪变化</li>
- 				<li>为案情提供线索</li>
- 				<li>矫正罪犯心理</li>
- 				<li>减少法律漏洞</li>
- 				<li>完善心理证据</li>
- 				<li>对死者的心理重构</li>
- 				<li>对罪犯的心理画像</li>
- 				<li>和平与正义</li>
- 			</ol>
- 		</div>
- 		<div class="HowToMake">
- 			<h3 class="SubHeader">犯罪心理学的目的</h3>
- 			<ol class="MethodWrapper">
- 				<li>将心理学知识和研究成果广泛运用于民事和刑事司法系统中</li>
- 				<li>研究人类“犯罪因子”的源头</li>
- 				<li>研究罪犯的行为和心理过程，简化和整理犯罪情景中的变量</li>
- 				<li>聚焦于罪犯个体的犯罪行为，通过“画像”、“侧写”等心理学手段为捕捉罪犯提供帮助</li>
- 				<li>从被害人角度剖析被害者在被害过程中所受心理伤害并给予治疗手段</li>
- 				<li>完善法律，减少漏洞，增加心理层次的“证据”的功效</li>
- 				<li>研究环境和犯罪动机之间的联系</li>
- 				<li>从心理学方面分类罪犯类型，整合资料并服务于各个机构</li>
- 				<li>推动矫正心理学的进程，服务于患有精神病的罪犯</li>
- 				<li>减少再犯罪的可能性</li>
- 				<li>对死者的人格和认知特征进行重构，为案情提供线索</li>
- 				<li>拓宽犯罪学领域和法律界定的范围</li>
- 			</ol>
- 		</div>
- 	</body>
- </html> 
+---
+layout: archive
+title: "文章"
+date: 2018-1-03T23:11:36-04:00
+modified:
+excerpt: "学习笔记"
+tags: []
+image: 
+  feature: 控分大佬.jpg
+  teaser:
+---
+
+![pEi1te.jpg](https://s1.ax1x.com/2018/01/06/pEi1te.jpg)
+[Web](https://kannroy.github.io/posts/rwd/index)
+- 课程“网页制作”学习笔记在此
+
+![pEi3fH.jpg](https://s1.ax1x.com/2018/01/06/pEi3fH.jpg)
+[可视化](https://kannroy.github.io/posts/infovis/index)
+- 课程“信息可视化”学习笔记在此
