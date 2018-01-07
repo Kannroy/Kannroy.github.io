@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-在此留下我在可视化学习途中收集到的信息
+在此留下我在Web学习途中收集到的信息
 
 <div class="tiles">
 {% for post in site.categories.rwd %}
