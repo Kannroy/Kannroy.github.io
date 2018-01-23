@@ -47,7 +47,7 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 <h4>期中作品</h4>
 
 <div class="row">
-<div class="col-sm-7" markdown="1"><!-- right -->
+<div class="col-sm-7" markdown="1">
 
 ##### 江苏省使用音乐软件总数远超其他省份
 
