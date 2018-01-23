@@ -49,9 +49,9 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 <div class="row">
 <div class="col-sm-12" markdown="1">
 ##### 江苏省使用音乐软件总数远超其他省份
-- O组可视化针对于中国第一产业展开了调查分析
 
-![pEiUnP.jpg](https://s1.ax1x.com/2018/01/06/pEiUnP.jpg)[期中可视化作品](https://kannroy.github.io/infovis/O组可视化)
+![pEiUnP.jpg](https://s1.ax1x.com/2018/01/06/pEiUnP.jpg)
+- [期中可视化作品](https://kannroy.github.io/infovis/O组可视化)
 
 </div> 
 
