@@ -32,7 +32,7 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 <div class="col-sm-5" markdown="1" ><!-- right -->
 ##### 酷狗音乐的使用次数超过总数之大半
 
-- 酷狗音乐的使用次数达到了78.5%，当属五种音乐软件的冠军
+- 酷狗音乐的使用次数达到了总数的78.5%，当属五种音乐软件中的冠军
 - 相对的，酷我音乐的使用次数则是排在了最末尾
 
 ![pIAPKI.png](https://s1.ax1x.com/2018/01/23/pIAPKI.png)
