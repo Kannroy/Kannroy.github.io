@@ -45,7 +45,7 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </div>
 
 <style>
-h4{background: #03810f; color:white; border-radius:6px; padding:6px;}
+h4{background: #6c339b; color:white; border-radius:6px; padding:6px;}
 h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </style>
 <h4>期中作品</h4>
