@@ -10,7 +10,7 @@ tags: []
 h4{background: #ffffff; color:#ff4500; border-radius:6px; padding:6px;}
 h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </style>
-<h4>线上音乐热点狗音乐、网易云音乐、百度音乐、虾米音乐、酷我音乐</h4>
+<h4>线上音乐热点对比分析：酷狗音乐、网易云音乐、百度音乐、虾米音乐、酷我音乐</h4>
 从高德地图中获取API并构建图表，意图研究五种音乐软件在中国的使用情况。
 
 <div class="row">
