@@ -44,12 +44,17 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 
 </div>
 
+<style>
+h4{background: #03810f; color:white; border-radius:6px; padding:6px;}
+h5{background: #280181; color:white; border-radius:3px; padding:3px;}
+</style>
 <h4>期中作品</h4>
 
 <div class="row">
 <div class="col-sm-12" markdown="1">
-##### [期中可视化作品](https://kannroy.github.io/infovis/O组可视化)
-
+##### 作品集
+- [期中可视化作品](https://kannroy.github.io/infovis/O组可视化)
+    
 ![pEiUnP.jpg](https://s1.ax1x.com/2018/01/06/pEiUnP.jpg)
 
 </div> 
