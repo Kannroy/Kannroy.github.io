@@ -45,7 +45,6 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </div>
 
 <h4>期中作品</h4>
-O组的期中作品
 
 <div class="row">
 <div class="col-sm-7" markdown="1"><!-- right -->
@@ -61,11 +60,3 @@ O组的期中作品
 
 <hr>
 <br/>
-
-本人的其他作品
-
-<div class="tiles">
-{% for post in site.categories.pd %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles 把所有categories 有 pd 的列出来-->
