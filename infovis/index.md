@@ -8,7 +8,7 @@ tags: []
 ---
 此处留下可视化作品集
 
-[![peiVM9.md.png](https://s1.ax1x.com/2018/01/07/peiVM9.md.png)](https://imgchr.com/i/peiVM9)
+![p5qTc4.jpg](https://s1.ax1x.com/2018/01/23/p5qTc4.jpg)
 [音乐APP的热点情况](https://public.tableau.com/views/_18186/1_2?:embed=y&:display_count=yes&publish=yes)
 
 ![pEiUnP.jpg](https://s1.ax1x.com/2018/01/06/pEiUnP.jpg)
