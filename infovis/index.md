@@ -51,7 +51,7 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 本人的其他作品
 
 <div class="tiles">
-{% for post in site.categories.p %}
+{% for post in site.categories.pd %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 p 的列出来-->
+</div><!-- /.tiles 把所有categories 有 pd 的列出来-->
