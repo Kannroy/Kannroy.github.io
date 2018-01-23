@@ -3,11 +3,11 @@ layout: archive
 title: "可视化 作品"
 date: 2018-1-03T23:11:36-04:00
 modified:
-excerpt: "我用可视化成就你的梦想"
+excerpt: "Not all tramps are lost in their self"
 tags: []
 ---
 <style>
-h4{background: #03810f; color:white; border-radius:6px; padding:6px;}
+h4{background: #ffffff; color:#ff4040; border-radius:6px; padding:6px;}
 h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </style>
 <h4>线上音乐热点狗音乐、网易云音乐、百度音乐、虾米音乐、酷我音乐</h4>
