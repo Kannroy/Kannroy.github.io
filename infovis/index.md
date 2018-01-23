@@ -7,13 +7,13 @@ excerpt: "我用可视化成就你的梦想"
 tags: []
 ---
 <style>
-h4{background: #EA1D2D; color:white; border-radius:6px; padding:6px;}
-h5{background: #D19F2A; color:white; border-radius:3px; padding:3px;}
+h4{background: #03810f; color:white; border-radius:6px; padding:6px;}
+h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </style>
 <h4>线上音乐热点狗音乐、网易云音乐、百度音乐、虾米音乐、酷我音乐</h4>
 从高德地图中获取API并构建图表，意图研究五种音乐软件在中国的使用情况。
 
-div class="row">
+<div class="row">
 <div class="col-sm-7" markdown="1"><!-- left -->
 ##### 音乐软件在沿海地区更受欢迎
 - 但从五种音乐软件的分布情况来看，中国沿海地区所受到的覆盖面积更广更密集
