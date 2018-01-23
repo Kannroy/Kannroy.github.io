@@ -3,20 +3,20 @@ layout: archive
 title: "可视化 作品"
 date: 2018-1-03T23:11:36-04:00
 modified:
-excerpt: "我用可视化成就你的梦想"
+excerpt: "Not all tramps are lost in their self"
 tags: []
 ---
 <style>
-h4{background: #03810f; color:white; border-radius:6px; padding:6px;}
+h4{background: #ffffff; color:#ff4500; border-radius:6px; padding:6px;}
 h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </style>
-<h4>线上音乐热点狗音乐、网易云音乐、百度音乐、虾米音乐、酷我音乐</h4>
+<h4>线上音乐热点对比分析：酷狗音乐、网易云音乐、百度音乐、虾米音乐、酷我音乐</h4>
 从高德地图中获取API并构建图表，意图研究五种音乐软件在中国的使用情况。
 
 <div class="row">
 <div class="col-sm-7" markdown="1"><!-- left -->
 ##### 音乐软件在沿海地区更受欢迎
-- 但从五种音乐软件的分布情况来看，中国沿海地区所受到的覆盖面积更广更密集
+- 单从五种音乐软件的分布情况来看，中国沿海地区所受到的覆盖面积更广更密集
 - 而酷狗音乐的广度比之其他的音乐软件更强一些，在自治区也能够看到酷狗音乐的影子
 
 ![pIkguq.png](https://s1.ax1x.com/2018/01/23/pIkguq.png)
@@ -44,14 +44,22 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 
 </div>
 
+<style>
+h4{background: #ffffff; color:#ff4500; border-radius:6px; padding:6px;}
+h5{background: #280181; color:white; border-radius:3px; padding:3px;}
+</style>
+<h4>期中作品</h4>
+
+<div class="row">
+<div class="col-sm-12" markdown="1">
+##### 作品集
+
+- [期中可视化作品](https://kannroy.github.io/infovis/O组可视化)
+    
+![pEiUnP.jpg](https://s1.ax1x.com/2018/01/06/pEiUnP.jpg)
+
+</div> 
+
 
 <hr>
 <br/>
-
-本人的其他作品
-
-<div class="tiles">
-{% for post in site.categories.pd %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles 把所有categories 有 pd 的列出来-->
