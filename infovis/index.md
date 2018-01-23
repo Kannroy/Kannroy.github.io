@@ -7,7 +7,7 @@ excerpt: "Not all tramps are lost in their self"
 tags: []
 ---
 <style>
-h4{background: #ffffff; color:black; border-radius:6px; padding:6px;}
+h4{background: #6c339b; color:white; border-radius:6px; padding:6px;}
 h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </style>
 <h4>线上音乐热点狗音乐、网易云音乐、百度音乐、虾米音乐、酷我音乐</h4>
@@ -16,7 +16,7 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 <div class="row">
 <div class="col-sm-7" markdown="1"><!-- left -->
 ##### 音乐软件在沿海地区更受欢迎
-- 但从五种音乐软件的分布情况来看，中国沿海地区所受到的覆盖面积更广更密集
+- 单从五种音乐软件的分布情况来看，中国沿海地区所受到的覆盖面积更广更密集
 - 而酷狗音乐的广度比之其他的音乐软件更强一些，在自治区也能够看到酷狗音乐的影子
 
 ![pIkguq.png](https://s1.ax1x.com/2018/01/23/pIkguq.png)
