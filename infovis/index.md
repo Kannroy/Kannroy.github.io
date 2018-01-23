@@ -7,7 +7,7 @@ excerpt: "Not all tramps are lost in their self"
 tags: []
 ---
 <style>
-h4{background: #ffffff; color:#6c339b; border-radius:6px; padding:6px;}
+h4{background: #ffffff; color:#ff4500; border-radius:6px; padding:6px;}
 h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </style>
 <h4>线上音乐热点狗音乐、网易云音乐、百度音乐、虾米音乐、酷我音乐</h4>
@@ -45,7 +45,7 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </div>
 
 <style>
-h4{background: #ffffff; color:#6c339b; border-radius:6px; padding:6px;}
+h4{background: #ffffff; color:#ff4500; border-radius:6px; padding:6px;}
 h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 </style>
 <h4>期中作品</h4>
