@@ -23,7 +23,7 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 
 ##### 江苏省使用音乐软件总数远超其他省份
 
-- 省份之间的对比可以看出，江苏省的音乐软件使用数量远远超过其他的省份
+- 从省份之间的对比可以看出，江苏省的音乐软件使用数量远远超过其他的省份
 - 大多数的省份都是使用酷狗音乐为主
 
 ![pIyBon.png](https://s1.ax1x.com/2018/01/23/pIyBon.png)
