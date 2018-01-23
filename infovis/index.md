@@ -48,8 +48,10 @@ h5{background: #280181; color:white; border-radius:3px; padding:3px;}
 <hr>
 <br/>
 
-# 可视化作品集
-![p5qTc4.jpg](https://s1.ax1x.com/2018/01/23/p5qTc4.jpg)
-[音乐APP的热点情况](https://public.tableau.com/views/_18186/1_2?:embed=y&:display_count=yes&publish=yes)![pEiUnP.jpg](https://s1.ax1x.com/2018/01/06/pEiUnP.jpg)
-[期中可视化作品](https://kannroy.github.io/infovis/O组可视化)
-- O组可视化针对于中国第一产业展开了调查分析
+本人的其他作品
+
+<div class="tiles">
+{% for post in site.categories.production %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles 把所有categories 有 production 的列出来-->
